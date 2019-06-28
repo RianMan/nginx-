@@ -1,2 +1,5 @@
-# nginx
-nginx配置历程记录
+# 服务器相关学习
+
+1. docker
+2. nginx
+
